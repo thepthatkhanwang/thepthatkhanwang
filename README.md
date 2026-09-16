@@ -1,8 +1,7 @@
 Hi 👋 My name is T
 ==================
 <img
-src="[<img width="464" height="544" alt="image" src="https://github.com/user-attachments/assets/6f0562b4-3909-4b3b-a61d-5db054b55238" />
-" width="100](https://media.giphy.com/media/zIatAEDb9NwwAd3cYE/giphy.gif?cid=bb5a1c3ay7xeuah7outima0y8hjyn561jaqa57u11ez5rziq&ep=v1_gifs_trending&rid=giphy.gif&ct=g)" height="100" />
+src="https://media.giphy.com/media/zIatAEDb9NwwAd3cYE/giphy.gif?cid=bb5a1c3ay7xeuah7outima0y8hjyn561jaqa57u11ez5rziq&ep=v1_gifs_trending&rid=giphy.gif&ct=g" height="100" />
 
 * ✉️  You can contact me at [thepthat.k@ku.th](mailto:thepthat.k@ku.th)
 ![](https://komarev.com/ghpvc/?username=your-github-thepthatkhanwang&color=green)
